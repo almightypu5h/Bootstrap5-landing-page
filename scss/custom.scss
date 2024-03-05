@@ -1,0 +1,97 @@
+.navbar{
+    background-color: #6DA4AA;
+    color: #2b4651;
+
+    
+}
+
+.navbar-txt{
+    color: #CC5500;
+    text-decoration: none;
+    font-size: 50px;
+    font-family: "Bebas Neue", sans-serif; 
+    color: #2b4651;
+}
+
+.body-bg{
+    background-color: #FAEF9B;
+    color: #2b4651;
+
+}
+
+.carousel-item{
+    height: 500px;
+    background-color: #654321;
+    border-radius: 10px;
+    object-fit: fill;
+    object-position: bottom;
+    color: #2b4651;
+
+}
+
+.separator{
+    height: 10px;
+    background-color: #F6D776;
+}
+
+.card-body{
+    font-family: "Bebas Neue", sans-serif; 
+    color: #2b4651;
+    
+
+
+}
+
+.card-parent{
+    background-color: #6DA4AA;
+
+}
+
+
+.carousel-inner{
+    font-family: "Bebas Neue", sans-serif; 
+    color: #2b4651;
+
+}
+
+.butttooonnn{
+    background-color: transparent;
+    font-family: "Bebas Neue", sans-serif; 
+    color: #2b4651;
+    font-size: 25px;
+    border: none
+
+}
+
+.offcanvas-header{
+    font-family: "Bebas Neue", sans-serif; 
+    color: #2b4651;
+    background-color: #6DA4AA;
+    font-size: 25px;
+
+
+}
+
+.offcanvas-body{
+    font-family: "Bebas Neue", sans-serif; 
+    color: #2b4651;
+    background-color: #6DA4AA;
+    font-size: 20px;
+
+}
+
+.foot-info{
+    font-family: "Bebas Neue", sans-serif; 
+    color: #2b4651;
+    background-color: #6DA4AA;
+    font-size: 20px;
+
+
+}
+
+.okay{
+    background-color: #6DA4AA;
+}
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
