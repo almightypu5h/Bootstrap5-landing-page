@@ -32,6 +32,16 @@ To customize the landing page:
 3. Add or modify JavaScript functionality in the `script.js` file.
 4. Re-compile the SASS files into CSS using a SASS compiler if necessary.
 
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+
+![Screenshot 2](screenshots/screenshot2.png)
+
+![Screenshot 3](screenshots/screenshot3.png)
+
+![Screenshot 4](screenshots/screenshot4.png)
+
 ## Acknowledgments
 
 This project was built as part of my learning journey in front-end development. I would like to thank the Bootstrap and SASS communities for their excellent documentation and resources that helped me understand and implement these technologies effectively.
